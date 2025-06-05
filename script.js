@@ -58,13 +58,13 @@ document.addEventListener("DOMContentLoaded", () => {
       </div>
       <div class="col-md-4">
         <div class="card p-4 shadow-sm">
-          <h5>Cidades Diferentes</h5>
+          <h5>Cidades Cadastradas</h5>
           <p class="display-6 fw-bold">${totalCities}</p>
         </div>
       </div>
       <div class="col-md-4">
         <div class="card p-4 shadow-sm">
-          <h5>Empresas Diferentes</h5>
+          <h5>Empresas Cadastradas</h5>
           <p class="display-6 fw-bold">${totalCompanies}</p>
         </div>
       </div>
