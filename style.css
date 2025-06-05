@@ -1,0 +1,52 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background: #f5f6fa;
+    color: #333;
+  }
+  
+  .sidebar {
+    background: linear-gradient(135deg, #6c5ce7, #a29bfe);
+    min-height: 100vh;
+    color: #fff;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
+  
+  .sidebar h4 {
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+  }
+  
+  .sidebar .nav-link {
+    color: #fff;
+    font-weight: 500;
+    padding: 0.5rem 0;
+  }
+  
+  .sidebar .nav-link:hover {
+    text-decoration: underline;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    background: #fff;
+  }
+  
+  .table th,
+  .table td {
+    vertical-align: middle;
+  }
+  
+  .btn-outline-primary {
+    border-radius: 1rem;
+  }
+  
+  #summaryCards .card {
+    background: linear-gradient(135deg, #74b9ff, #81ecec);
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+  }
+  
